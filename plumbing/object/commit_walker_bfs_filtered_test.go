@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/storer"
+	"github.com/gembaadvantage/go-git/v5/plumbing"
+	"github.com/gembaadvantage/go-git/v5/plumbing/storer"
 
 	. "gopkg.in/check.v1"
 )
